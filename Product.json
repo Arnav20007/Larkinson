@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Solar LED String Lights",
+        "description": "Beautiful and energy-efficient solar lights for your home.",
+        "price": "19.99",
+        "image": "https://your-image-link.com/solar-lights.jpg",
+        "link": "https://aliexpress.com/your-product-link"
+    },
+    {
+        "name": "Bamboo Bluetooth Speaker",
+        "description": "Eco-friendly bamboo speaker with amazing sound quality.",
+        "price": "29.99",
+        "image": "https://your-image-link.com/bamboo-speaker.jpg",
+        "link": "https://aliexpress.com/your-product-link"
+    }
+]
